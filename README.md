@@ -151,7 +151,7 @@ RappiPlus_Business_Performance_Analysis/
 
 ## 🛠️ Tools and Technologies
 
-* Python: Pandas, Seaborn, Matplotlib, Statsmodels
+* Python: Pandas, Seaborn, Matplotlib, Stats-models
 * ETL & EDA
 * SQL
 * Statistical Analysis: Two-proportion z-test
