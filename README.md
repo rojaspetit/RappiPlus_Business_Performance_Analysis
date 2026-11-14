@@ -4,10 +4,6 @@ This project evaluates the business performance of RappiPlus through sales, prof
 
 The project combines Python, SQL, statistical testing, and Power BI to transform raw business data into actionable insights.
 
-> **Academic Project**
->
-> This project was developed for educational purposes as part of a simulated business case. The role, business scenario, and recommendations are intended to demonstrate a data analytics workflow and should not be interpreted as official guidance for the organizations referenced..
-
 ---
 
 ## 📌 Project Overview
